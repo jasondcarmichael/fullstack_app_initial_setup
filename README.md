@@ -1,5 +1,5 @@
 # Full-stack App Initial Setup
-The following provides basic instructions for setting-up a full-stack app using the PERN stack. It assumes familiarity with the computer's terminal and also assumes that PostgreSQL, Express, React and Node, as well as Sequelize, have already been installed on your computer. The intent of the repository is to serve as a reference for running the multiple commands and establising the required dependencies for any PERN stack project. 
+The following provides basic instructions for setting-up a full-stack app using the PERN stack and Sequelize. It assumes familiarity with the computer's terminal and also assumes that PostgreSQL, Express, React and Node, as well as Sequelize, have already been installed on your computer. The intent of the repository is to serve as a reference for running the multiple commands and establising the required dependencies for any PERN stack project. 
 
 ## Create Root Directory
 In the computer's terminal, make a new root directory for the project and name it. For this example, the root directory is named "fullstack_app." Run this command:<br>
